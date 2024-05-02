@@ -1,10 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PodIA Generativa 
 
 ## 📒 Descrição
 Breve descrição do seu projeto
